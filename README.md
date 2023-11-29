@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=d6a&height=300&section=header&text=capsule%20render&fontSize=90)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7EEA9&center=true&vCenter=true&random=false&width=435&lines=hello+world+!)](https://git.io/typing-svg)
+
 - 🌱 I’m currently learning : python & data engineering
 - 👯 I’m looking to collaborate on ..
 - 🤔 I’m looking for help with ...
